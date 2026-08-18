@@ -214,10 +214,7 @@ Vaso integrates key evidence-based medical standards into its ER Handoff Card an
 
 - 📹 **Video Walkthrough**: [[Watch on YouTube](https://youtube.com/watch?v=your-video-id)](https://www.youtube.com/watch?v=tpyW0Iz8Pwg)
 
-### 📽️ Pictures of App Interface 
-| Live Vital Monitoring & Crisis Drift | ER Handoff Protocol Card |
-| :---: | :---: |
-| ![Vaso Monitor Demo](assets/monitor-demo.gif) | ![Vaso Card Demo](assets/card-demo.gif) |
+
 
 <img width="691" height="1315" alt="Screenshot 2026-08-16 145441" src="https://github.com/user-attachments/assets/a7cf806e-779f-430c-bc6d-536619f64a38" />
 <img width="686" height="1273" alt="Screenshot 2026-08-16 145437" src="https://github.com/user-attachments/assets/b615d853-1524-43f9-8f85-0ae88431790d" />
