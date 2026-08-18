@@ -206,6 +206,16 @@ Vaso integrates key evidence-based medical standards into its ER Handoff Card an
 * **ASH 2020 Guidelines**: Emphasizes rapid administration of individualized analgesia within 60 minutes of arrival for acute pain crises.
 * **CDC 2022 Opioid Guideline**: Explicitly clarifies that recommendations for chronic pain management do not apply to acute pain management in Sickle Cell Disease.
 
+
+<img width="691" height="1315" alt="Screenshot 2026-08-16 145441" src="https://github.com/user-attachments/assets/a7cf806e-779f-430c-bc6d-536619f64a38" />
+<img width="686" height="1273" alt="Screenshot 2026-08-16 145437" src="https://github.com/user-attachments/assets/b615d853-1524-43f9-8f85-0ae88431790d" />
+<img width="664" height="1294" alt="Screenshot 2026-08-16 145422" src="https://github.com/user-attachments/assets/a8d60922-34c9-4a8e-bcc2-2cbe27ca4771" />
+<img width="658" height="1266" alt="Screenshot 2026-08-16 145416" src="https://github.com/user-attachments/assets/93640bcc-3dfd-4a14-9a00-03cbcfe22414" />
+<img width="720" height="1274" alt="Screenshot 2026-08-16 145451" src="https://github.com/user-attachments/assets/404f140e-3a26-40a5-9522-8aba59795a29" />
+<img width="670" height="1270" alt="Screenshot 2026-08-16 145447" src="https://github.com/user-attachments/assets/4c43d08e-ddcb-4674-8b61-d21a237fc955" />
+
+
+
 ---
 
 ## 📄 License
